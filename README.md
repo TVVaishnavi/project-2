@@ -7,4 +7,10 @@
 
 ## How it is build 
    Necessary packages:
-       1.
+       1.pandas as pd
+               command "pip install pandas"
+       2. TextBlob 
+               command "pip install TextBlob"
+       3.nltk.tokenize 
+              command "pip instal nltk"
+              
